@@ -49,13 +49,6 @@ Este proyecto es estático, por lo que no requiere instalación de dependencias 
     * Puedes abrir el archivo `index.html` directamente en tu navegador.
     * **Recomendado:** Usar la extensión "Live Server" en VS Code para simular un servidor local y evitar problemas con rutas absolutas.
 
-## 📸 Capturas de Pantalla
-
-| Carrito de Compras | Pasarela de Pago |
-|:---:|:---:|
-| ![Carrito](https://via.placeholder.com/400x300?text=Carrito) | ![Checkout](https://via.placeholder.com/400x300?text=Checkout) |
-*(Sube tus propias imágenes a una carpeta 'screenshots' y enlázalas aquí)*
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
