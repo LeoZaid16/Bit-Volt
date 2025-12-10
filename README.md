@@ -1,8 +1,5 @@
 # ⚡ Bit&Volt - E-commerce de Electrónica
 
-![Banner del Proyecto](https://via.placeholder.com/1000x300?text=Bit%26Volt+Preview)
-*(Nota: Reemplaza este link con una captura de pantalla real de tu página de inicio)*
-
 **Bit&Volt** es una plataforma de comercio electrónico web diseñada para la venta de componentes electrónicos y accesorios tecnológicos. Este proyecto simula un flujo de compra completo, desde la selección de productos hasta una pasarela de pago interactiva, todo desarrollado con tecnologías web estándar y almacenamiento local.
 
 ## 🚀 Características Principales
