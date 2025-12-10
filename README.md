@@ -52,6 +52,3 @@ Este proyecto es estático, por lo que no requiere instalación de dependencias 
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
-
----
-⌨️ con ❤️ por [Tu Nombre] para la materia de [Nombre de tu materia]
